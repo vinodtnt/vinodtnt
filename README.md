@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinodtnt
-- 👀 I’m interested in Cloud & DevOps
+- 👀 I’m interested in Cloud, DevOps & Ethical Hacking
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me vinodtnt@gmail.com
